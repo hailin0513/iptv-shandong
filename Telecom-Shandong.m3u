@@ -337,13 +337,13 @@ http://150.138.8.143/00/SNM/CHANNEL00000280/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000282/index.m3u8
 #EXTINF:-1 tvg-id="烟台公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/烟台.png" group-title="🏙️ 市级频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,烟台公共
 http://150.138.8.143/00/SNM/CHANNEL00000281/index.m3u8
-#EXTINF:-1 tvg-id="潍坊综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊新闻.png" group-title="🏙️ 市级频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,潍坊综合
+#EXTINF:-1 tvg-id="潍坊综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊综合.png" group-title="🏙️ 市级频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,潍坊综合
 http://150.138.8.143/00/SNM/CHANNEL00000215/index.m3u8
 #EXTINF:-1 tvg-id="潍坊生活" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊生活.png" group-title="🏙️ 市级频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,潍坊生活
 http://150.138.8.143/00/SNM/CHANNEL00000216/index.m3u8
 #EXTINF:-1 tvg-id="潍坊公共" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊影视.png" group-title="🏙️ 市级频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,潍坊公共
 http://150.138.8.143/00/SNM/CHANNEL00000217/index.m3u8
-#EXTINF:-1 tvg-id="潍坊科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊文旅.png" group-title="🏙️ 市级频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,潍坊科教
+#EXTINF:-1 tvg-id="潍坊科教" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊科教.png" group-title="🏙️ 市级频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,潍坊科教
 http://150.138.8.143/00/SNM/CHANNEL00000218/index.m3u8
 #EXTINF:-1 tvg-id="潍坊高新区" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊高新.png" group-title="🏙️ 市级频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,潍坊高新区
 http://150.138.8.143/00/SNM/CHANNEL00001106/index.m3u8
@@ -591,19 +591,19 @@ http://150.138.8.143/00/SNM/CHANNEL00001084/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00001065/index.m3u8
 #EXTINF:-1 tvg-id="临朐综合" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/潍坊临朐.png" group-title="🏘️ 县级频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,临朐综合
 http://150.138.8.143/00/SNM/CHANNEL00001085/index.m3u8
-#EXTINF:-1 tvg-id="央广购物" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,央广购物
+#EXTINF:-1 tvg-id="央广购物" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/央广购物2.png"group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,央广购物
 http://150.138.8.143/00/SNM/CHANNEL00000704/index.m3u8
-#EXTINF:-1 tvg-id="已停用" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,已停用
+#EXTINF:-1 tvg-id="已停用1" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,已停用
 http://150.138.8.143/00/SNM/CHANNEL00000504/index.m3u8
-#EXTINF:-1 tvg-id="已停用" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,已停用
+#EXTINF:-1 tvg-id="已停用2" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,已停用
 http://150.138.8.143/00/SNM/CHANNEL00002021/index.m3u8
-#EXTINF:-1 tvg-id="已停用" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,已停用
+#EXTINF:-1 tvg-id="已停用3" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,已停用
 http://150.138.8.143/00/SNM/CHANNEL00000654/index.m3u8
-#EXTINF:-1 tvg-id="已停用" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,已停用
+#EXTINF:-1 tvg-id="已停用4" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,已停用
 http://150.138.8.143/00/SNM/CHANNEL00000645/index.m3u8
-#EXTINF:-1 tvg-id="已停用" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,已停用
+#EXTINF:-1 tvg-id="已停用5" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,已停用
 http://150.138.8.143/00/SNM/CHANNEL00000380/index.m3u8
-#EXTINF:-1 tvg-id="已停用" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,已停用
+#EXTINF:-1 tvg-id="已停用6" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,已停用
 http://150.138.8.143/00/SNM/CHANNEL00000060/index.m3u8
-#EXTINF:-1 tvg-id="已停用" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,已停用
+#EXTINF:-1 tvg-id="已停用7" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,已停用
 http://150.138.8.143/00/SNM/CHANNEL00004004/index.m3u8

@@ -561,10 +561,5 @@ rtp://239.21.1.246:5002?fcc=150.138.8.132:8027&fec=5126
 rtp://239.21.2.62:5002?fcc=150.138.8.132:8027&fec=5126
 #EXTINF:-1 tvg-id="九屏" tvg-name="九屏" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/九屏同看.png" catchup="default" catchup-source="rtsp://150.138.8.132/PLTV/88888888/224/3221226598/10000100000000060000000003878453_0.smil?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" catchup-days="7" tvg-shift="0" group-title="✈ 备用频道",九屏
 rtp://239.21.1.203:5002?fcc=150.138.8.132:8027&fec=5126
-<<<<<<< HEAD
 #EXTINF:-1 tvg-id="已停用" tvg-name="已停用" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" catchup="none" catchup-days="0" tvg-shift="0" group-title="✈ 备用频道",已停用
 rtp://239.21.2.26:5002?fcc=150.138.8.132:8027&fec=5126
-=======
-#EXTINF:-1 tvg-id="已停用" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/停用频道.png" group-title="✈ 备用频道" tvg-shift="0" catchup="none" catchup-days="0" resolution="720x576" ,已停用
-rtp://239.21.2.26:5002?fcc=150.138.8.132:8027&fec=5126
->>>>>>> e731085bccbc055d1aa184358dc0d562b1f82d34

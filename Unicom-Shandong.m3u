@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz"
+#EXTM3U url-tvg="https://gh-proxy.org/https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc-desc.xml.gz"
 #EXTINF:-1 tvg-id="CCTV1" group-title="📺 央视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV1.png" catchup="default" catchup-source="rtsp://112.245.125.38:1554/iptv/Tvod/iptv/001/001/ch12122514263996485740.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV-1 综合
 rtsp://112.245.125.41:1554/iptv/import/Tvod/iptv/001/001/ch12122514263996485740.rsc/69958_Uni.sdp
 #EXTINF:-1 tvg-id="CCTV2" group-title="📺 央视频道" tvg-logo="https://gh-proxy.org/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV2.png" catchup="default" catchup-source="rtsp://112.245.125.41:1554/iptv/Tvod/iptv/001/001/ch15111015505054435886.rsc?tvdr=${(b)yyyyMMddHHmmss|UTC}GMT-${(e)yyyyMMddHHmmss|UTC}GMT", CCTV-2 财经
